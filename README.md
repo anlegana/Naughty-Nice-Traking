@@ -4,7 +4,7 @@ I uploaded the three codes(.java) i used to run the program but also the .zip wh
 <h1> What I learned</h1>
 
 <ul>
-  <li>Use of .isLetter() and .ChartAt () in Java</li>
+  <li>Use of .isLetter() and .chartAt () in Java</li>
   <li>Use of .equals in String</li>
 </ul>
 <footer>
