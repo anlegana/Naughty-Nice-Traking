@@ -8,7 +8,7 @@ I uploaded the three codes(.java) i used to run the program but also the .zip wh
   <li>Use of .equals in String</li>
 </ul>
 <footer>
-  <p>Author: Andres Gaviria</p>
+  <p>Author: Andres Gaviria and Bruce Maclean(TEACHER) </p>
    <p>Course: Introduction to Objected Oriented Programming -Fall 2020 </p>
 </footer>
 
